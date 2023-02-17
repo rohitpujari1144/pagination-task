@@ -1,2 +1,2 @@
-# pagination-task
+# Pagination
 DOM Pagination
